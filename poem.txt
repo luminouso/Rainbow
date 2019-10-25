@@ -2,3 +2,4 @@ Rosso
 Giallo
 Blu
 Verde
+Arancione
